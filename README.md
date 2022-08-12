@@ -4,6 +4,9 @@
 ## Introduction
 Build and Deploy restaurant website with Transforming a Figma design into fully functioning website.
 
+Skill Insight:
+
+
 - Advanced React Best Practices such as folder & file structure, hooks and refs
 
 
